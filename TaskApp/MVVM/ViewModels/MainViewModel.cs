@@ -66,55 +66,44 @@ namespace TaskApp.MVVM.ViewModels
                 new Category
             {
                 CId = 1,
-                CName = "Games Finised",
+                CName = "Bakery Supplies",
                 Color = "#84B94A"
             },
             new Category
             {
-                CId = 2, CName = "Work/Uni",
+                CId = 2, CName = "What to bake",
                 Color = "#E09735"
-            },
-            new Category
-            {
-                CId = 3, CName = "What to do",
-                Color = "#D935E0"
             }
+        
         };
 
             Tasks = new ObservableCollection<MyTask>()
             {
                 new MyTask
             {
-                TName = "ACC Mirage",
+                TName = "Flour",
                 TCompleted = false,
                 CId = 1,
             },
             new MyTask
             {
-                TName = "Warframe",
+                TName = "Eggs",
                 TCompleted = false,
                 CId = 1,
             },
             new MyTask
             {
-                TName = "Study for Task App exam",
+                TName = "French bugget",
                 TCompleted = false,
                 CId = 2,
             },
             new MyTask
             {
-                TName = "Create documents for the Task App",
+                TName = "Croassant",
                 TCompleted = false,
                 CId = 2,
             },
-            new MyTask
-            {
-                TName = "Touch Some Grass",
-                TCompleted = false,
-                CId = 3,
-            },
-            new MyTask
-            {TName = "Fresh Air Needed!", TCompleted = false, CId = 3}
+      
         };
             UpdateData();
         }

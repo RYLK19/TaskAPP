@@ -4,12 +4,12 @@
              xmlns:converters="clr-namespace:TaskApp.Converter"
              x:Class="TaskApp.MVVM.Views.MainView"
              Title="My Tasks"
+             BackgroundColor="White"
              >
-
+<!--this is space for the categories-->
     <ContentPage.Resources>
         <converters:ColorConverter x:Key="ColorConverter"/>
     </ContentPage.Resources>
-    
     <Grid Margin="16" RowDefinitions=".1*,.3*,.7*">
         <Label Text="My Tasks" StyleClass="dark, Header"/>
         
@@ -45,7 +45,7 @@
         </Grid>
 
 
-
+        <!--this is the Task section-->
         <Grid Grid.Row="2" RowDefinitions=".2*,.8*">
 
             <Label StyleClass="LightBlue, SubHeader" Text="Tasks To Do" TextColor="Black" FontAttributes="Bold"/>
@@ -76,7 +76,7 @@
                 </CollectionView.ItemTemplate>
             </CollectionView>
         </Grid>
-
+             <!--this is the button to Add new Items-->
         <Button Grid.Row="2"
                 Text="+"
                 Clicked="Adding_Clicked"

@@ -25,7 +25,7 @@
                 <GridItemsLayout HorizontalItemSpacing="5"
                                  Orientation="Vertical"
                                  Span="1"
-                                 VerticalItemSpacing="5"/>
+                                 VerticalItemSpacing="10"/>
             </CollectionView.ItemsLayout>
             <CollectionView.ItemTemplate>
                 <DataTemplate>

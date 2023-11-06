@@ -13,39 +13,39 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = TaskApp
-build_property.ProjectDir = C:\Users\OEM\Desktop\MyTaskAPP\TaskApp\
+build_property.ProjectDir = C:\Users\theek\Source\Repos\MyTaskAPPP\TaskApp\
 
-[C:/Users/OEM/Desktop/MyTaskAPP/TaskApp/App.xaml]
+[C:/Users/theek/Source/Repos/MyTaskAPPP/TaskApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/OEM/Desktop/MyTaskAPP/TaskApp/MVVM/Views/MainView.xaml]
+[C:/Users/theek/Source/Repos/MyTaskAPPP/TaskApp/MVVM/Views/MainView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskApp.MVVM.Views.MainView.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MainView.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MainView.xaml
 
-[C:/Users/OEM/Desktop/MyTaskAPP/TaskApp/MVVM/Views/NewTaskView.xaml]
+[C:/Users/theek/Source/Repos/MyTaskAPPP/TaskApp/MVVM/Views/NewTaskView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskApp.MVVM.Views.NewTaskView.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\NewTaskView.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\NewTaskView.xaml
 
-[C:/Users/OEM/Desktop/MyTaskAPP/TaskApp/Resources/Styles/AppStyles.xaml]
+[C:/Users/theek/Source/Repos/MyTaskAPPP/TaskApp/Resources/Styles/AppStyles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskApp.Resources.Styles.AppStyles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
 
-[C:/Users/OEM/Desktop/MyTaskAPP/TaskApp/Resources/Styles/Colors.xaml]
+[C:/Users/theek/Source/Repos/MyTaskAPPP/TaskApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/OEM/Desktop/MyTaskAPP/TaskApp/Resources/Styles/Styles.xaml]
+[C:/Users/theek/Source/Repos/MyTaskAPPP/TaskApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TaskApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
